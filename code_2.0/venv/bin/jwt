@@ -1,4 +1,5 @@
-#!/Users/mymac/PycharmProjects/store/code_2.0/venv/bin/python3
+#!/Users/mymac/PycharmProjects/store/code/venv/bin/python
+
 # -*- coding: utf-8 -*-
 import re
 import sys
